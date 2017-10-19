@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %This code employs progressive learning technique to multi-class
 %classification using extreme learning machines 
-%Author: Rajasekar Venkatesan 
+%Author Name: Rajasekar Venkatesan
 %Paper Reference: A novel progressive learning technique for
 %multi-class classification
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
