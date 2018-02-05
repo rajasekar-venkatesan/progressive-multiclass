@@ -1,0 +1,33 @@
+---PROGRESSIVE ELM - MULTI-CLASS---
+Loading data from file: iris_plt.csv
+150 samples loaded with 4 features
+Scaling Features Done
+Divided into training and testing set
+Training set has 135 samples
+Begin Training...
+Initial Block...
+Initial block size: 30 samples
+Initially available labels are: {'versicolor', 'setosa'}
+Labels to index map: {'versicolor': 0, 'setosa': 1}
+Network is created with 4 input neurons, 10 hidden neurons and 2 output neurons
+Learning 105 samples sequentially with mini batch size: 1
+Learning Sequentially...
+1 new labels have appeared
+Newly introduced labels are {'virginica'}
+Added new labels to the labels set
+Revised labels set is {'versicolor', 'virginica', 'setosa'}
+Revised labels to index map: {'versicolor': 0, 'setosa': 1, 'virginica': 2}
+Continuing to learn...
+Training Done...
+Begin Testing...
+Generating Classification Report...
+             precision    recall  f1-score   support
+
+          0       1.00      1.00      1.00         2
+          1       1.00      1.00      1.00         5
+          2       1.00      1.00      1.00         8
+
+avg / total       1.00      1.00      1.00        15
+
+Accuracy Score: 1.0
+
